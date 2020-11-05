@@ -1,0 +1,22 @@
+{
+  "name": "iss_spotter",
+  "version": "1.0.0",
+  "description": "find out when the iss is going to be overhead",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rothavanathan/iss_spotter.git"
+  },
+  "author": "Romesh Thavanathan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rothavanathan/iss_spotter/issues"
+  },
+  "homepage": "https://github.com/rothavanathan/iss_spotter#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
